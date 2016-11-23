@@ -26,9 +26,9 @@ public class HomeController {
     @Value("${welcome}")
     private String welcome;
 
-    @RequestMapping(value = "/", method = RequestMethod.GET)
-    public String ipaddress() throws Exception {
-        String archtest = DynamicPropertyFactory.getInstance().getStringProperty("testkey", "").get();
-        return "Reply: " + welcome + "- -" + archtest;
-    }
+//    @RequestMapping(value = "/", method = RequestMethod.GET)
+//    public String ipaddress() throws Exception {
+//        String archtest = DynamicPropertyFactory.getInstance().getStringProperty("testkey", "").get();
+//        return "Reply: " + welcome + "- -" + archtest;
+//    }
 }
