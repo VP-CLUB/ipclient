@@ -17,3 +17,9 @@ dependency-reduced-pom.xml
 kube-cluster/kubernetes
 apps/modifiedFabric8.json
 git-clones
+127.0.1.1.tm1.epoch
+tmlog1.log
+logs
+.sonar
+
+

@@ -1,0 +1,7 @@
+spring.application.name: ipclient
+spring.main.sources: org.example
+spring.sleuth.sampler.percentage: 1.0
+logging.config: classpath:logback.xml
+
+welcome:  Hello World!
+ipclient.serviceUrl: http://ipservicedemo/ip
