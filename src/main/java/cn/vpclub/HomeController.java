@@ -13,12 +13,9 @@
  * implied.  See the License for the specific language governing
  * permissions and limitations under the License.
  */
-package org.example;
+package cn.vpclub;
 
-import com.netflix.config.DynamicPropertyFactory;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController

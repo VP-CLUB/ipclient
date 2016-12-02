@@ -13,10 +13,10 @@
  * implied.  See the License for the specific language governing
  * permissions and limitations under the License.
  */
-package org.example;
+package cn.vpclub;
 
+import cn.vpclub.domain.IPAddress;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
-import org.example.domain.IPAddress;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
