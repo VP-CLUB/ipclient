@@ -1,5 +1,5 @@
 spring.application.name: ipclient
-spring.main.sources: org.example
+spring.main.sources: cn.vpclub
 spring.sleuth.sampler.percentage: 1.0
 logging.config: classpath:logback.xml
 
