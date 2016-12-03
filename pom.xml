@@ -7,7 +7,7 @@
         <version>1.4.1.RELEASE</version>
         <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>cn.vpclub</groupId>
     <artifactId>ipclient</artifactId>
     <version>1.0.0</version>
 
