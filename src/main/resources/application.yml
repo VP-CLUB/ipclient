@@ -2,6 +2,6 @@ spring.application.name: ipclient
 spring.main.sources: cn.vpclub
 spring.sleuth.sampler.percentage: 1.0
 logging.config: classpath:logback.xml
-
+## RedHat$1
 welcome:  Hello World!
 ipclient.serviceUrl: http://ipservicedemo/ip
